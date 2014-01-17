@@ -1,6 +1,6 @@
 # N1t0
 
-TODO: Write a gem description
+Translation package, just for fun, but also can be seriously :)
 
 ## Installation
 
@@ -20,10 +20,3 @@ Or install it yourself as:
 
 TODO: Write usage instructions here
 
-## Contributing
-
-1. Fork it ( http://github.com/<my-github-username>/n1t0/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request

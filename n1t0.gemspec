@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["eddie@digik.com.tw"]
   spec.summary       = %q{translation package, but just for fun}
   spec.description   = %q{translation package, but just for fun}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/kaochenlong/n1t0"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
